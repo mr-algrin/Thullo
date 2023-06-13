@@ -1,1 +1,2 @@
-# Thullo
+# Thullo - Thrello clone project
+
