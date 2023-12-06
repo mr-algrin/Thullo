@@ -1,2 +1,2 @@
-# Thullo - Thrello clone project
+# Thullo - Trello clone project
 
